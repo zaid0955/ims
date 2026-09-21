@@ -1,18 +1,20 @@
 # Inventory Management System (IMS)
 
-A full-stack web application designed to track, store, and organize comprehensive stock records. This system streamlines data entry and provides real-time inventory updates.
+A comprehensive, desktop-based Inventory Management System built with Python. This application features a user-friendly graphical interface designed to streamline database management, track stock, and monitor real-time inventory statistics.
 
-## Features
-* **Real-Time Tracking:** Accurate monitoring of stock levels and product data.
-* **Interactive Dashboard:** User-friendly UI for seamless warehouse data entry and stock handling.
-* **Secure Database Integration:** Reliable data storage and retrieval.
+## 🚀 Features
+* **Dynamic Dashboard:** Displays real-time inventory statistics and system metrics in a clean, intuitive GUI.
+* **Comprehensive CRUD Operations:** Fully implemented Create, Read, Update, and Delete functionality for seamless data entry.
+* **Database Management:** Dedicated modules to accurately track and manage Employees, Suppliers, Categories, and Products.
+* **Advanced Search Functionality:** Robust search filters to quickly locate specific records within the database.
 
-## Tech Stack
-* **Backend:** Python
-* **Frontend:** React.js, JavaScript, HTML5, CSS3
-* **Database:** SQL / MongoDB *(choose whichever Zaid actually used)*
+## 🛠️ Tech Stack
+* **Programming Language:** Python
+* **GUI Framework:** Tkinter
+* **Database:** MySQL
+* **Database Driver:** PyMySQL
 
-## Local Setup Instructions
+## ⚙️ Local Setup Instructions
 
 1. **Clone the repository:**
    ```bash
