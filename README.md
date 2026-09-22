@@ -14,8 +14,4 @@ A comprehensive, desktop-based Inventory Management System built with Python. Th
 * **Database:** MySQL
 * **Database Driver:** PyMySQL
 
-## ⚙️ Local Setup Instructions
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/zaid0955/ims.git](https://github.com/zaid0955/ims.git)
